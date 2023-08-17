@@ -35,7 +35,7 @@ Welcome! I am currently a fisrt-year Ph.D. student under the supervision of Prof
   <div class='paper-box-text' markdown="1">
 
   [Coarse-to-Fine Amodal Segmentation with Shape Prior](https://github.com/JianxGao/C2F-Seg)\\
-  **Jianxiong Gao**, Xuelin Qian^†, Yikai Wang, Tianjun Xiao^†, Tong He, Zheng Zhang, Yanwei Fu
+  **Jianxiong Gao**, Xuelin Qian<sup>†</sup>, Yikai Wang, Tianjun Xiao<sup>†</sup>, Tong He, Zheng Zhang, Yanwei Fu
   
   [[project](https://jianxgao.github.io/C2F-Seg)] [[code](https://github.com/JianxGao/C2F-Seg)] [bib]
 
