@@ -49,12 +49,12 @@ Welcome! I am currently a fisrt-year Ph.D. student under the supervision of Prof
 
 # 📖 Educations
 - *2022.09 - 2023.08 (now)*, PhD, Fudan Univeristy, Shanghai
-- *2018.09 - 2022.06*, Undergraduate, Shandong Univeristy, Weihai
+- *2018.09 - 2022.06*, Undergraduate, Shandong Univeristy, Shandong
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.03 - 2022.07*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
 - *2022.07 - 2023.08 (now)*, [Amazon Web Service](https://amazon.com/), China.
+- *2022.03 - 2022.07*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
