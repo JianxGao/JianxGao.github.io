@@ -34,11 +34,13 @@ Welcome! I am currently a fisrt-year Ph.D. student under the supervision of Prof
   <div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/C2F-Seg_arch.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
-  [Coarse-to-Fine Amodal Segmentation with Shape Prior]()
-  **Jianxiong Gao**, Xuelin Qian, Yikai Wang, Tianjun Xiao, Tong He, Zheng Zhang, Yanwei Fu
+  [Coarse-to-Fine Amodal Segmentation with Shape Prior](https://github.com/JianxGao/C2F-Seg)\\
+  **Jianxiong Gao**, Xuelin Qian†, Yikai Wang, Tianjun Xiao†, Tong He, Zheng Zhang, Yanwei Fu
+  
+  [arxiv] [[code](https://github.com/JianxGao/C2F-Seg)] [bib]
 
-  [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-  - describe
+  <!-- [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  - describe -->
 
   </div>
 </div>
