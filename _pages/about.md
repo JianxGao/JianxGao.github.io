@@ -39,9 +39,6 @@ Welcome! I am currently a fisrt-year Ph.D. student under the supervision of Prof
   
   [arxiv] [[code](https://github.com/JianxGao/C2F-Seg)] [bib]
 
-  <!-- [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-  - describe -->
-
   </div>
 </div>
 
