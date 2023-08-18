@@ -19,9 +19,7 @@ redirect_from:
 
 # 🧷 About-me
 
-Welcome! I am currently a fisrt-year Ph.D. student under the supervision of Prof. Yanwei Fu from Fudan University. My research interests focus on computer vision.
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+Welcome! I am currently a fisrt-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/) in Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University. My research interests focus on computer vision.
 
 
 <!-- # 🔥 News
@@ -46,8 +44,8 @@ Welcome! I am currently a fisrt-year Ph.D. student under the supervision of Prof
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2022.09 - 2023.08 (now)*, PhD, Fudan Univeristy, Shanghai
-- *2018.09 - 2022.06*, Undergraduate, Shandong Univeristy, Shandong
+- *2022.09 - 2023.08 (now)*, Ph.D. of Biomedical Engineering, Fudan Univeristy, Shanghai
+- *2018.09 - 2022.06*, Bachelor of Statistics, Shandong Univeristy, Shandong
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

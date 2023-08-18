@@ -7,7 +7,10 @@
 
 # Site Settings
 title                    : "Jianxiong Gao"
-description              : "Welcome! I am currently a fisrt-year Ph.D. student under the supervision of Prof. Yanwei Fu from Fudan University. My research interests focus on computer vision."
+description              : "Ph.D. candidate of Biomedical Engineering
+                            School of Data Science
+                            Fudan University
+                            "
 repository               : "JaxonGao/JaxonGao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "jianxgao"
   google_plus      :
   keybase          :
   instagram        :
