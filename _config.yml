@@ -7,10 +7,9 @@
 
 # Site Settings
 title                    : "Jianxiong Gao"
-description              : "Ph.D. candidate of Biomedical Engineering
-                            School of Data Science
-                            Fudan University
-                            "
+description              : "Ph.D. candidate of BME,
+                            ISTBI, 
+                            Fudan University"
 repository               : "JaxonGao/JaxonGao.github.io"
 google_scholar_stats_use_cdn : true
 
