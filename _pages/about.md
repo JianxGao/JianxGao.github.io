@@ -31,10 +31,10 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
   <div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/C2F-Seg.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
-  [Coarse-to-Fine Amodal Segmentation with Shape Prior](https://github.com/JianxGao/C2F-Seg)\\
+  [Coarse-to-Fine Amodal Segmentation with Shape Prior](https://jianxgao.github.io/C2F-Seg)\\
   **Jianxiong Gao**, Xuelin Qian<sup>†</sup>, Yikai Wang, Tianjun Xiao<sup>†</sup>, Tong He, Zheng Zhang, Yanwei Fu
   
-  [[project](https://jianxgao.github.io/C2F-Seg)] [[code](https://github.com/JianxGao/C2F-Seg)] [[bib](https://jianxgao.github.io/C2F-Seg/#BibTeX)]
+  [[arxiv](https://arxiv.org/abs/2308.16825)] [[project](https://jianxgao.github.io/C2F-Seg)] [[code](https://github.com/JianxGao/C2F-Seg)] [[bib](https://jianxgao.github.io/C2F-Seg/#BibTeX)]
   </div>
 </div>
 
@@ -42,10 +42,10 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
   <div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/MinD-3D.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
-  [Coarse-to-Fine Amodal Segmentation with Shape Prior](https://github.com/JianxGao/MinD-3D)\\
+  [MinD-3D: Reconstruct High-quality 3D objects in Human Brain](https://jianxgao.github.io/MinD-3D)\\
   **Jianxiong Gao**, Yuqian Fu, Yun Wang, Xuelin Qian, Jianfeng Feng, Yanwei Fu<sup>†</sup>
   
-  [[project](https://jianxgao.github.io/MinD-3D)] [[code](https://github.com/JianxGao/MinD-3D)] [bib]
+  [[arxiv](https://arxiv.org/abs/2312.07485)] [[project](https://jianxgao.github.io/MinD-3D)] [[code](https://github.com/JianxGao/MinD-3D)] [bib]
   </div>
 </div>
 
