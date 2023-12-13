@@ -38,7 +38,7 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box'>d
   <div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/MinD-3D.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -66,4 +66,4 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
 - *2022.07 - Current*, [Amazon Web Service](https://www.amazonaws.cn/en/ailab/), China.
 - *2022.03 - 2022.07*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BRu3F43iCPOKV1CYDI_bbXY2iamL4NYtzfhqurYcc8c"></script>
+<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BRu3F43iCPOKV1CYDI_bbXY2iamL4NYtzfhqurYcc8c"></script> -->
