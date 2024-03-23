@@ -39,13 +39,13 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/MinD-3D.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/Mind_3d.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   [MinD-3D: Reconstruct High-quality 3D objects in Human Brain](https://jianxgao.github.io/MinD-3D)\\
   **Jianxiong Gao**, Yuqian Fu, Yun Wang, Xuelin Qian, Jianfeng Feng, Yanwei Fu<sup>†</sup>
   
-  [[arxiv](https://arxiv.org/abs/2312.07485)] [[project](https://jianxgao.github.io/MinD-3D)] [[code](https://github.com/JianxGao/MinD-3D)] [bib]
+  [[arxiv](https://arxiv.org/abs/2312.07485)] [[project](https://jianxgao.github.io/MinD-3D)] [[data](https://huggingface.co/datasets/Fudan-fMRI/fMRI-Shape)] [[code](https://github.com/JianxGao/MinD-3D)] [[bib]](https://jianxgao.github.io/MinD-3D/#BibTeX)
   </div>
 </div>
 
