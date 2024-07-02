@@ -50,17 +50,6 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
 </div> -->
 
 <div class='paper-box'>
-  <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/hyper_amodal.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  [Hyper-Transformer for Amodal Completion]()\\
-  **Jianxiong Gao<sup>*</sup>**, Xuelin Qian<sup>*</sup>, Longfei Liang, Junwei Han, Yanwei Fu<sup>†</sup>
-
-  [[arxiv](https://arxiv.org/pdf/2405.19949)]
-  </div>
-</div>
-
-<div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/C2F-Seg.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -71,6 +60,16 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/hyper_amodal.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  [Hyper-Transformer for Amodal Completion]()\\
+  **Jianxiong Gao<sup>*</sup>**, Xuelin Qian<sup>*</sup>, Longfei Liang, Junwei Han, Yanwei Fu<sup>†</sup>
+
+  [[arxiv](https://arxiv.org/pdf/2405.19949)]
+  </div>
+</div>
 
 
 
