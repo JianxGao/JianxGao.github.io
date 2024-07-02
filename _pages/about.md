@@ -39,6 +39,27 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
   </div>
 </div>
 
+
+<!-- <div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/C2F-Seg.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  [LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion]()\\
+  Jinyu Zhang, Yongchong Gu, **Jianxiong Gao**, Haitao Lin, Qiang Sun, Xinwei Sun, Xiangyang Xue, Yanwei Fu<sup>†</sup>
+  </div>
+</div> -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/hyper_amodal.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  [Hyper-Transformer for Amodal Completion]()\\
+  **Jianxiong Gao<sup>*</sup>**, Xuelin Qian<sup>*</sup>, Longfei Liang, Junwei Han, Yanwei Fu<sup>†</sup>
+
+  [[arxiv](https://arxiv.org/pdf/2405.19949)]
+  </div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/C2F-Seg.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
