@@ -45,6 +45,7 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
   
   [LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion](https://jrryzh.github.io/LAC-Net/)\\
   Jinyu Zhang, Yongchong Gu, **Jianxiong Gao**, Haitao Lin, Qiang Sun, Xinwei Sun, Xiangyang Xue, Yanwei Fu<sup>†</sup>
+  
   [[arxiv](https://arxiv.org/abs/2408.03238)] [[project](https://jrryzh.github.io/LAC-Net/)]
   </div>
 </div>
