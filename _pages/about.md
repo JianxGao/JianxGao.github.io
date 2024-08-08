@@ -39,15 +39,15 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
   </div>
 </div>
 
-
-<!-- <div class='paper-box'>
-  <div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/C2F-Seg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/LAC_net.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
-  [LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion]()\\
+  [LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion](https://jrryzh.github.io/LAC-Net/)\\
   Jinyu Zhang, Yongchong Gu, **Jianxiong Gao**, Haitao Lin, Qiang Sun, Xinwei Sun, Xiangyang Xue, Yanwei Fu<sup>†</sup>
+  [[arxiv](https://arxiv.org/abs/2408.03238)] [[project](https://jrryzh.github.io/LAC-Net/)]
   </div>
-</div> -->
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/C2F-Seg.jpg' alt="sym" width="100%"></div></div>
