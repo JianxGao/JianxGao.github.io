@@ -62,6 +62,17 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
 </div>
 
 <div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">JAMES</div><img src='images/JAMES.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  [TC-GEN: Data-Driven Tropical Cyclone Downscaling Using Machine Learning-Based High-Resolution Weather Model](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS004203?af=R) \\
+  Renzhi Jing<sup>†</sup>, **Jianxiong Gao**, Yunuo Cai, Dazhi Xi, Yinda Zhang, Yanwei Fu<sup>†</sup>, Kerry Emanuel, Noah S. Diffenbaugh, Eran Bendavid
+  
+  [[paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS004203?af=R)]
+  </div>
+</div>
+
+<div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/hyper_amodal.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
