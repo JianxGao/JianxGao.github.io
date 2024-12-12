@@ -98,7 +98,7 @@ Welcome! I am currently a second-year Ph.D. student under the supervision of [Pr
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.07 - Current*, [Amazon Web Service](https://www.amazonaws.cn/en/ailab/), China.
+- *2022.07 - 2024.10*, [Amazon Web Service](https://www.amazonaws.cn/en/ailab/), China.
 - *2022.03 - 2022.07*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
 
 
