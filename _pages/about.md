@@ -29,6 +29,28 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
 # 📝 Publications 
 
 <div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/cinebrain.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [CineBrain: A Large-Scale Multi-Modal Brain Dataset During Naturalistic Audiovisual Narrative Processing](https://arxiv.org/abs/2503.06940)\\
+  **Jianxiong Gao**, Yichang Liu, BaofengYang, Jianfeng Feng,Yanwei Fu<sup>†</sup>
+  
+  [[arxiv](https://arxiv.org/abs/2503.06940)] [[project](https://jianxgao.github.io/CineBrain/)]
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/mind3d++.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [MinD-3D++: Advancing fMRI-Based 3D Reconstruction with High-Quality Textured Mesh Generation and a Comprehensive Dataset](https://arxiv.org/abs/2409.11315)\\
+  **Jianxiong Gao**, Yanwei Fu<sup>†</sup>, Yuqian Fu, Yun Wang, Xuelin Qian, Jianfeng Feng
+  
+  [[arxiv](https://arxiv.org/abs/2409.11315)] [[project](https://jianxgao.github.io/MinD-3D)]
+  </div>
+</div>
+
+<div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/fqgan.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -36,6 +58,16 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
   Zechen Bai, **Jianxiong Gao**, Ziteng Gao, Pichao Wang, Zheng Zhang, Tong He, Mike Zheng Shou
   
   [[arxiv](https://arxiv.org/abs/2411.16681)] [[project](https://showlab.github.io/FQGAN/)] [[code](https://github.com/showlab/FQGAN)] 
+  </div>
+</div>
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/videosam.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [VideoSAM: Open-World Video Segmentation](https://arxiv.org/abs/2410.08781)\\
+  Pinxue Guo, Zixu Zhao, **Jianxiong Gao**, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang
+
+  [[arxiv](https://arxiv.org/abs/2410.08781)]
   </div>
 </div>
 
