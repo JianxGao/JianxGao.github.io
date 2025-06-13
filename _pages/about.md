@@ -19,7 +19,8 @@ redirect_from:
 
 # 🧷 About-me
 
-Welcome! I am currently a third-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/) and [Prof. Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/) in Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University. I am also an intern at the Shanghai Artificial Intelligence Laboratory, working closely with [Chenyang Si](https://chenyangsi.top/) and [Ziwei Liu](https://liuziwei7.github.io/)
+Welcome! I am currently a third-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/) and [Prof. Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/) in Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University. I am also an intern at the Shanghai Artificial Intelligence Laboratory, working closely with [Chenyang Si](https://chenyangsi.top/) and [Ziwei Liu](https://liuziwei7.github.io/).
+
 
 
 <!-- # 🔥 News
