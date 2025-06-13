@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧷 About-me
 
-Welcome! I am currently a third-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/) and [Prof. Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/) in Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University.
+Welcome! I am currently a third-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/) and [Prof. Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/) in Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University. I am also an intern at the Shanghai Artificial Intelligence Laboratory, working closely with [Chenyang Si](https://chenyangsi.top/) and [Ziwei Liu](https://liuziwei7.github.io/)
 
 
 <!-- # 🔥 News
@@ -143,7 +143,7 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
 
 # 💻 Internships
 - *2022.07 - 2024.10*, [Amazon Web Service](https://www.amazonaws.cn/en/ailab/), China.
-<!-- - *2022.03 - 2022.07*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China. -->
+- *2024.11 - Now*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
 
 
 <!-- <div style="position: relative; bottom: -70px; width: 100%;"> 
