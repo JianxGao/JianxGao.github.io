@@ -95,7 +95,7 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
 </div>
 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">JAMES</div><img src='images/JAMES.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -104,9 +104,9 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
   
   [[paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS004203?af=R)]
   </div>
-</div>
+</div> -->
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/hyper_amodal.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -115,7 +115,7 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
 
   [[arxiv](https://arxiv.org/pdf/2405.19949)]
   </div>
-</div>
+</div> -->
 
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/LAC_net.jpg' alt="sym" width="100%"></div></div>
