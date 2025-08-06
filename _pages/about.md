@@ -30,6 +30,17 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
 # 📝 Publications 
 
 <div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/longvie.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [LongVie : Multimodal-Guided Controllable Ultra-Long Video Generation](https://arxiv.org/abs/2508.03694)\\
+  **Jianxiong Gao**, Zhaoxi Chen, Xian Liu, Jianfeng Feng, Chenyang Si<sup>†</sup>, Yanwei Fu<sup>†</sup>, Yu Qiao, Ziwei Liu<sup>†</sup>
+  
+  [[arxiv](https://arxiv.org/abs/2508.03694)] [[project](https://vchitect.github.io/LongVie-project/)]
+  </div>
+</div>
+
+<div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/cinebrain.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -150,3 +161,6 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
 <!-- <div style="position: relative; bottom: -70px; width: 100%;"> 
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BRu3F43iCPOKV1CYDI_bbXY2iamL4NYtzfhqurYcc8c"></script>
 </div> -->
+
+
+
