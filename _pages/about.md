@@ -52,7 +52,7 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/mind3d++.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/mind3d++.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   [MinD-3D++: Advancing fMRI-Based 3D Reconstruction with High-Quality Textured Mesh Generation and a Comprehensive Dataset](https://arxiv.org/abs/2409.11315)\\
