@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧷 About-me
 
-Welcome! I am currently a third-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/) and [Prof. Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/) in Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University. I am also an intern at the Shanghai Artificial Intelligence Laboratory, working closely with [Chenyang Si](https://chenyangsi.top/) and [Ziwei Liu](https://liuziwei7.github.io/).
+Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/) and [Prof. Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/) in Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University. I was previously an intern at the Shanghai Artificial Intelligence Laboratory, where I worked closely with [Chenyang Si](https://chenyangsi.top/) and [Ziwei Liu](https://liuziwei7.github.io/). I am currently an intern at Kuaishou Technology (Kling Team), working closely with [Xintao Wang](https://xinntao.github.io/).
 
 
 
@@ -30,10 +30,21 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
 # 📝 Publications 
 
 <div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/longvie2.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [LongVie2: Multimodal Controllable Ultra-Long Video World Model](https://arxiv.org/abs/2512.13604)\\
+  **Jianxiong Gao**, Zhaoxi Chen, Xian Liu, Junhao Zhuang, Chengming Xu, Jianfeng Feng, Yu Qiao, Chenyang Si<sup>†</sup>, Yanwei Fu<sup>†</sup>, Ziwei Liu<sup>†</sup>
+  
+  [[arxiv](https://arxiv.org/abs/2512.13604)] [[project](https://vchitect.github.io/LongVie2-project/)] [[Code](https://github.com/Vchitect/LongVie)]
+  </div>
+</div>
+
+<div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/longvie.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
-  [LongVie : Multimodal-Guided Controllable Ultra-Long Video Generation](https://arxiv.org/abs/2508.03694)\\
+  [LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation](https://arxiv.org/abs/2508.03694)\\
   **Jianxiong Gao**, Zhaoxi Chen, Xian Liu, Jianfeng Feng, Chenyang Si<sup>†</sup>, Yanwei Fu<sup>†</sup>, Yu Qiao, Ziwei Liu<sup>†</sup>
   
   [[arxiv](https://arxiv.org/abs/2508.03694)] [[project](https://vchitect.github.io/LongVie-project/)]
@@ -47,7 +58,7 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
   [CineBrain: A Large-Scale Multi-Modal Brain Dataset During Naturalistic Audiovisual Narrative Processing](https://arxiv.org/abs/2503.06940)\\
   **Jianxiong Gao**, Yichang Liu, BaofengYang, Jianfeng Feng,Yanwei Fu<sup>†</sup>
   
-  [[arxiv](https://arxiv.org/abs/2503.06940)] [[project](https://jianxgao.github.io/CineBrain/)]
+  [[arxiv](https://arxiv.org/abs/2503.06940)] [[project](https://jianxgao.github.io/CineBrain/)] [[Code](https://github.com/yanweifu-sii/CineBrain)]
   </div>
 </div>
 
@@ -58,7 +69,7 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
   [MinD-3D++: Advancing fMRI-Based 3D Reconstruction with High-Quality Textured Mesh Generation and a Comprehensive Dataset](https://arxiv.org/abs/2409.11315)\\
   **Jianxiong Gao**, Yanwei Fu<sup>†</sup>, Yuqian Fu, Yun Wang, Xuelin Qian, Jianfeng Feng
   
-  [[arxiv](https://arxiv.org/abs/2409.11315)] [[project](https://jianxgao.github.io/MinD-3D)]
+  [[arxiv](https://arxiv.org/abs/2409.11315)] [[project](https://jianxgao.github.io/MinD-3D)] [[data](https://huggingface.co/datasets/Fudan-fMRI/fMRI-Objaverse)] [[code](https://github.com/JianxGao/MinD-3D)]
   </div>
 </div>
 
@@ -155,7 +166,8 @@ Welcome! I am currently a third-year Ph.D. student under the supervision of [Pro
 
 # 💻 Internships
 - *2022.07 - 2024.10*, [Amazon Web Service](https://www.amazonaws.cn/en/ailab/), China.
-- *2024.11 - Now*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
+- *2024.11 - 2025.08*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
+- *2025.09 - Now*, Kuaishou Technology (Kling Team), China.
 
 
 <!-- <div style="position: relative; bottom: -70px; width: 100%;"> 
