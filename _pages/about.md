@@ -34,7 +34,7 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
   <div class='paper-box-text' markdown="1">
 
   [LongVie2: Multimodal Controllable Ultra-Long Video World Model](https://arxiv.org/abs/2512.13604)\\
-  **Jianxiong Gao**, Zhaoxi Chen, Xian Liu, Junhao Zhuang, Chengming Xu, Jianfeng Feng, Yu Qiao, Chenyang Si<sup>†</sup>, Yanwei Fu<sup>†</sup>, Ziwei Liu<sup>†</sup>
+  **Jianxiong Gao**, Zhaoxi Chen, Xian Liu, Junhao Zhuang, Chengming Xu, Jianfeng Feng, Yu Qiao, Yanwei Fu<sup>†</sup>, Chenyang Si<sup>†</sup>, Ziwei Liu<sup>†</sup>
   
   [[arxiv](https://arxiv.org/abs/2512.13604)] [[project](https://vchitect.github.io/LongVie2-project/)] [[Code](https://github.com/Vchitect/LongVie)]
   </div>
@@ -167,7 +167,7 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
 # 💻 Internships
 - *2022.07 - 2024.10*, [Amazon Web Service](https://www.amazonaws.cn/en/ailab/), China.
 - *2024.11 - 2025.08*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
-- *2025.09 - Now*, Kuaishou Technology (Kling Team), China.
+- *2025.09 - Now*, [Kuaishou Technology (Kling Team)](https://ir.kuaishou.com/), China.
 
 
 <!-- <div style="position: relative; bottom: -70px; width: 100%;"> 
