@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧷 About-me
+# About
 
-Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/) and [Prof. Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/) in the Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University. I was previously an intern at the Shanghai Artificial Intelligence Laboratory, where I worked closely with [Chenyang Si](https://chenyangsi.top/) and [Ziwei Liu](https://liuziwei7.github.io/). I was also an intern at Kuaishou Technology (Kling Team), where I worked closely with [Xintao Wang](https://xinntao.github.io/). I am currently a research intern at Ant Research, advised by [Qiuyu Wang](https://github.com/qiuyu96).
+Welcome! I am a fourth-year Ph.D. student in the Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University, supervised by [Prof. Yanwei Fu](https://yanweifu.github.io/) and [Prof. Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/). My research focuses on video generation and brain-computer interface.
+
+I was previously an intern at the Shanghai Artificial Intelligence Laboratory, where I worked closely with [Chenyang Si](https://chenyangsi.top/) and [Ziwei Liu](https://liuziwei7.github.io/), and at Kuaishou Technology (Kling Team), where I worked with [Xintao Wang](https://xinntao.github.io/). I am currently a research intern at Ant Research, advised by [Qiuyu Wang](https://github.com/qiuyu96).
 
 
 
@@ -27,7 +29,7 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">CVPR 2026 Oral</div><img src='images/cinebrain.jpg' alt="sym" width="100%"></div></div>
@@ -121,16 +123,6 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
   </div>
 </div> -->
 
-<div class='paper-box'>
-  <div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/videosam.jpg' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-
-  [VideoSAM: Open-World Video Segmentation](https://arxiv.org/abs/2410.08781)\\
-  Pinxue Guo, Zixu Zhao, **Jianxiong Gao**, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang
-
-  [[arxiv](https://arxiv.org/abs/2410.08781)]
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MinD-3D.jpg' alt="sym" width="100%"></div></div>
@@ -143,6 +135,16 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/videosam.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [VideoSAM: Open-World Video Segmentation](https://arxiv.org/abs/2410.08781)\\
+  Pinxue Guo, Zixu Zhao, **Jianxiong Gao**, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang
+
+  [[arxiv](https://arxiv.org/abs/2410.08781)]
+  </div>
+</div>
 
 <!-- <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">JAMES</div><img src='images/JAMES.jpg' alt="sym" width="100%"></div></div>
@@ -194,24 +196,23 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2022.09 - Current*, Ph.D. of Biomedical Engineering, Fudan Univeristy, Shanghai
-- *2018.09 - 2022.06*, Bachelor of Statistics, Shandong Univeristy, Shandong
+# Education
+- *2022.09 - Current*, Ph.D. in Biomedical Engineering, Fudan University, Shanghai
+- *2018.09 - 2022.06*, B.S. in Statistics, Shandong University, Shandong
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# Internships
 - *2022.07 - 2024.10*, [Amazon Web Service](https://www.amazonaws.cn/en/ailab/), China.
 - *2024.11 - 2025.08*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
-- *2025.09 - 2026.04, [Kuaishou Technology (Kling Team)](https://ir.kuaishou.com/), China.
-- *2026.05 - Now, Ant Group, China.
+- *2025.09 - 2026.04*, [Kuaishou Technology (Kling Team)](https://ir.kuaishou.com/), China.
+- *2026.05 - Now*, Ant Group, China.
 
 
 <!-- <div style="position: relative; bottom: -70px; width: 100%;"> 
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BRu3F43iCPOKV1CYDI_bbXY2iamL4NYtzfhqurYcc8c"></script>
 </div> -->
-
 
 
