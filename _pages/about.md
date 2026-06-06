@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧷 About-me
 
-Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/) and [Prof. Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/) in Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University. I was previously an intern at the Shanghai Artificial Intelligence Laboratory, where I worked closely with [Chenyang Si](https://chenyangsi.top/) and [Ziwei Liu](https://liuziwei7.github.io/). I am currently an intern at Kuaishou Technology (Kling Team), working closely with [Xintao Wang](https://xinntao.github.io/).
+Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Prof. Yanwei Fu](https://yanweifu.github.io/) and [Prof. Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/) in the Institute of Science and Technology for Brain-Inspired Intelligence at Fudan University. I was previously an intern at the Shanghai Artificial Intelligence Laboratory, where I worked closely with [Chenyang Si](https://chenyangsi.top/) and [Ziwei Liu](https://liuziwei7.github.io/). I was also an intern at Kuaishou Technology (Kling Team), where I worked closely with [Xintao Wang](https://xinntao.github.io/). I am currently a research intern at Ant Research, advised by [Qiuyu Wang](https://github.com/qiuyu96).
 
 
 
@@ -205,7 +205,8 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
 # 💻 Internships
 - *2022.07 - 2024.10*, [Amazon Web Service](https://www.amazonaws.cn/en/ailab/), China.
 - *2024.11 - 2025.08*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
-- *2025.09 - Now*, [Kuaishou Technology (Kling Team)](https://ir.kuaishou.com/), China.
+- *2025.09 - 2026.04, [Kuaishou Technology (Kling Team)](https://ir.kuaishou.com/), China.
+- *2026.05 - Now, Ant Group, China.
 
 
 <!-- <div style="position: relative; bottom: -70px; width: 100%;"> 
