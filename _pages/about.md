@@ -30,6 +30,53 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
 # 📝 Publications 
 
 <div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">CVPR 2026 Oral</div><img src='images/cinebrain.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [CineBrain: A Large-Scale Multi-Modal Audiovisual Brain Dataset for Brain-Conditioned Video Generation](https://arxiv.org/abs/2503.06940)\\
+  **Jianxiong Gao**, Yichang Liu, BaofengYang, Jianfeng Feng, Yanwei Fu<sup>†</sup>
+  
+  [[arxiv](https://arxiv.org/abs/2503.06940)] [[project](https://jianxgao.github.io/CineBrain/)] [[Code](https://github.com/yanweifu-sii/CineBrain)]
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/fmri2video.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [Bridging Brain and Semantics: A Hierarchical Framework for Semantically Enhanced fMRI-to-Video Reconstruction](https://arxiv.org/abs/2605.14569)\\
+  Yujie Wei, Chenglong Ma, **Jianxiong Gao**, Chenhui Wang, Shiwei Zhang, Biao Gong, Shuai Tan, Hangjie Yuan, Hongming Shan
+  
+  [[arxiv](https://arxiv.org/abs/2605.14569)]
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/eeg2fmri.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [Modeling Spatiotemporal Neural Frames for High Resolution Brain Dynamic](https://arxiv.org/abs/2603.24176)\\
+  Wanying Qu, **Jianxiong Gao**, Wei Wang, Yanwei Fu
+
+  [[arxiv](https://arxiv.org/abs/2603.24176)]
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI26.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [EchoGen: Cycle-Consistent Learning for Unified Layout-Image Generation and Understanding](https://arxiv.org/abs/2603.18001)\\
+  Kai Zou, Hongbo Liu, Dian Zheng, **Jianxiong Gao**, Zhiwei Zhao, Bin Liu
+
+  [[arxiv](https://arxiv.org/abs/2603.18001)]
+  </div>
+</div>
+
+
+<div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/longvie2.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -51,16 +98,6 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/cinebrain.jpg' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-
-  [CineBrain: A Large-Scale Multi-Modal Brain Dataset During Naturalistic Audiovisual Narrative Processing](https://arxiv.org/abs/2503.06940)\\
-  **Jianxiong Gao**, Yichang Liu, BaofengYang, Jianfeng Feng,Yanwei Fu<sup>†</sup>
-  
-  [[arxiv](https://arxiv.org/abs/2503.06940)] [[project](https://jianxgao.github.io/CineBrain/)] [[Code](https://github.com/yanweifu-sii/CineBrain)]
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/mind3d++.jpg' alt="sym" width="100%"></div></div>
@@ -73,7 +110,7 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
   </div>
 </div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/fqgan.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -82,7 +119,8 @@ Welcome! I am currently a fourth-year Ph.D. student under the supervision of [Pr
   
   [[arxiv](https://arxiv.org/abs/2411.16681)] [[project](https://showlab.github.io/FQGAN/)] [[code](https://github.com/showlab/FQGAN)] 
   </div>
-</div>
+</div> -->
+
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/videosam.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
