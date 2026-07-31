@@ -32,6 +32,18 @@ I was previously an intern at the Shanghai Artificial Intelligence Laboratory, w
 # Publications
 
 <div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/memlearner.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [MemLearner: Learning to Query Context memory for Video World Models](https://arxiv.org/abs/2606.31734)\\
+  Jiwen Yu, **Jianxiong Gao**, Jianhong Bai, Yiran Qin, Kaiyi Huang, Quande Liu, Xintao Wang, Pengfei Wan, Kun Gai, Xihui Liu
+  
+  [[arxiv](https://arxiv.org/abs/2606.31734)] [[project](https://yujiwen.github.io/memlearner/)]
+  </div>
+</div>
+
+
+<div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">CVPR 2026 Oral</div><img src='images/cinebrain.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
